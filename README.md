@@ -1,4 +1,4 @@
-### 👋🏻 Hi, I'm Sujay Anantha. With a Master's in Computer Engineering from NYU Tandon, I'm at the intersection of data analytics and software engineering, driven to unlock the power of data in solving complex problems and building innovative software solutions.
+👋🏻 Hi, I'm Sujay Anantha. With a Master's in Computer Engineering from NYU Tandon, I'm at the intersection of data analytics and software engineering, driven to unlock the power of data in solving complex problems and building innovative software solutions.
 
 ### 🗽 Based in New York, my journey has been marked by a fusion of academic rigor and hands-on experience, from developing advanced analytics models to engineering robust software applications. My passion lies in not just analyzing data but also in crafting the code that drives impactful insights.
 
