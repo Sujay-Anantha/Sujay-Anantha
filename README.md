@@ -17,12 +17,6 @@
 
 💻 **Experience**: Python software developer, intermediate at Django, Pytorch, Pandas, and Pyspark.
 
-❄️ **I work at**: Snowflake, Snowpark team. ([Repo](https://github.com/snowflakedb/snowpark-python))
-
-🔭 **My favorite dev project**: SoulSpark, an AI friend Android app. ([Backend](https://github.com/sujayanantha/Soulspark), [Frontend](https://github.com/sujayanantha/SoulSpark-app))
-
-🌱 **I am learning**: Quantized + LoRA Fine-tuning for large language models ([Repo](https://github.com/sujayanantha/fine-tuning-large-language-models-on-limited-hardware))
-
 📫 **Best way to contact**: E-mail me at sujay.anantha@nyu.edu.
 
 ## 💾 Tech Stack:
