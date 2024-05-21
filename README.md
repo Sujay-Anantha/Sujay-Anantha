@@ -20,11 +20,10 @@
 📫 **Best way to contact**: E-mail me at sujay.anantha@nyu.edu.
 
 ## 💾 Tech Stack:
-- **Languages:** Python 🐍, Java ☕, C++
-- **Frameworks:** TensorFlow, Pytorch
-- **Tools:** SQL, MATLAB, JavaScript, MongoDB, Azure, NoSQL, Oracle Data Modeler, Hive, Apache, Tableau, Hadoop, MySQL, Keras, NumPy, GNNs, CNNs, NLP tools like Hugging Face & NLTK
+- **Languages:** Python 🐍, Java ☕, C++, MATLAB, JavaScript, HTML, CSS
+- **Frameworks:** TensorFlow, Pytorch, Keras, Django
+- **Tools:** Git, SQL, Sparql, MongoDB, Azure, NoSQL, Oracle Data Modeler, Hive, Apache, Tableau, Hadoop, MySQL, Docker, GNNs, CNNs, NLP tools (Hugging Face, NLTK, Spacy, Gensim), NumPy, Excel, PowerPoint
 - **OS:** Windows, Linux
-- **I also speak:** Excel and PowerPoint
 
 ### Libraries
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?style=for-the-badge&logo=Apache-Spark&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Wandb](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
