@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 <p align="center">
-    <a href="https://github.com/sujayanantha/sujayanantha"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sujay's+profile!;Master+of+Computer+Engineering;Living+in+New+York;Always+up+for+a+coding+challenge!;Shape+rotator"></a>
+    <a href="https://github.com/sujayanantha/sujayanantha"><img src="https://readme-typing-svg.herokuapp.com?color=%9370DB7&center=true&vCenter=true&lines=Welcome+to+Sujay's+profile!;Master+of+Computer+Engineering;Living+in+New+York;Always+up+for+a+coding+challenge!"></a>
 </p>
 
 <div align="center">
