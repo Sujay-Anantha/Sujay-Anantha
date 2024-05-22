@@ -45,7 +45,6 @@
 -->
 ## 🌐 Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujay.anantha@nyu.edu) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-anantha-1799961b0/) 
-[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/sujayanantha)
 
 ## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sujay-anantha.github.io/portfolio/)
