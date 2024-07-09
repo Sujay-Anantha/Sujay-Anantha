@@ -17,7 +17,7 @@
 
 💻 **Experience**: Python software developer, intermediate at Django, Pytorch, Pandas, and Pyspark.
 
-📫 **Best way to contact**: E-mail me at sujay.anantha@nyu.edu.
+📫 **Best way to contact**: E-mail me at ananthasujay@gmail.com.
 
 ## 💾 Tech Stack:
 - **Languages:** Python 🐍, Java ☕, C++, MATLAB, JavaScript, HTML, CSS
@@ -44,7 +44,7 @@
 
 -->
 ## 🌐 Socials
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sujay.anantha@nyu.edu) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-anantha-1799961b0/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthasujay@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujay-anantha-1799961b0/) 
 
 ## 🌐 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://sujay-anantha.github.io/portfolio/)
